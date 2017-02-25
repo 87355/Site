@@ -1,0 +1,8 @@
+#mainmenu {
+background: #1e65d5;
+height:60px;
+}
+#mainmenu ul li {
+float:left;
+margin:20px 250px;
+}
